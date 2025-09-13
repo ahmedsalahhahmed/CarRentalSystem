@@ -1,15 +1,18 @@
-# Compiled class files
-build/
-dist/
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
 
-# NetBeans project files
+# NetBeans
 nbproject/private/
-build-impl.xml
 nb-configuration.xml
-
-# User-specific files
+nbactions.xml
 nb-keyring.properties
 user.properties
-
-# Log files
-*.log
