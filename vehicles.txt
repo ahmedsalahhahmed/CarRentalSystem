@@ -1,0 +1,1 @@
+Car,C1,B,S,2015,50.0,true,RED,5,suv

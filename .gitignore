@@ -1,0 +1,15 @@
+# Compiled class files
+build/
+dist/
+
+# NetBeans project files
+nbproject/private/
+build-impl.xml
+nb-configuration.xml
+
+# User-specific files
+nb-keyring.properties
+user.properties
+
+# Log files
+*.log
